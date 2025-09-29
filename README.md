@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi y'all
+
+My name is habib, a deep learning engineer interested in researching about llm inference and computer vision. I mainly work in image processing and robotics related stuff at a startup right now. Will try to maintain this github repo with my small experimentation projects. Do check out my blogs and notes [here](https://habib.bearblog.dev/).
+
 
 <!--
 **habibsnippets/habibsnippets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
