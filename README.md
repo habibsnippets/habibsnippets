@@ -8,4 +8,4 @@ Engineering Focus: Scaling ML systems, Vision-Language Modalities, and the "How 
 
  Neurodivergent & Driven: Navigating the latent space between high agency and high anxiety to build something great.
 
-[Blog] (https://habib.bearblog.dev/) | [Twitter] (https://x.com/habibtwts)
+[Blog](https://habib.bearblog.dev/) | [Twitter](https://x.com/habibtwts)
